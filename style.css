@@ -1,0 +1,144 @@
+
+*{
+    box-sizing: border-box;    
+    padding:0px;
+    padding-top: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.poem{
+    color: red;
+}
+
+body{
+    font-size: 16px;
+    line-height: 40px;
+    background-color: black;
+}
+
+.container{
+    width: 100vw;
+    padding-left: 20px;
+    background-color: mediumaquamarine;
+    display: flex;
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container2{
+    width: 100vw;
+    padding-left: 20px;
+    background-color: rgb(255, 0, 225);
+    display: flex;
+    padding-top: 5px;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.column-1{
+    width: 75%;
+    background-color: mediumaquamarine;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.column-2{
+    background-color: mediumblue;
+    width: 25%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.default{
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    border: solid 2px rgb(0, 0, 0);
+    height: 100%;
+    padding: 20px;
+    display: inline;
+    border-radius: 15px;
+}
+
+/* .d0{
+    background-color: gold;
+}
+
+.d2{
+    background-color: lightskyblue;
+    
+}
+
+.d3{
+    background-color: hotpink;
+} */
+
+.d0{
+    background-color: black
+}
+.d1{
+    background-color: black
+}
+.d2{
+    background-color: black
+}
+.d3{
+    background-color: black
+}
+.d4{
+    background-color: black
+}
+.d5{
+    background-color: black
+}
+.d6{
+    background-color: black
+}
+.d7{
+    background-color: black
+}
+.d8{
+    background-color: black
+}
+.d9{
+    background-color: black
+}
+.d10{
+    background-color: black
+}
+.d11{
+    background-color: black
+}
+.d12{
+    background-color: black
+}
+.d13{
+    background-color: black
+}
+.d14{
+    background-color: black
+}
+.d15{
+    background-color: black
+}
+.d16{
+    background-color: black
+}
+.d17{
+    background-color: black
+}
+.d18{
+    background-color: black
+}
+.d19{
+    background-color: black
+}
+.d20{
+    background-color: black
+}
+
+
+
