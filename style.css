@@ -13,7 +13,7 @@
 
 body{
     font-size: 16px;
-    line-height: 40px;
+    line-height: 80px;
     background-color: black;
 }
 
@@ -23,7 +23,7 @@ body{
     background-color: mediumaquamarine;
     display: flex;
     padding-top: 5px;
-    font-size: 16px;
+    font-size: 22px;
     font-family: 'Work Sans', sans-serif;
 }
 
